@@ -1,0 +1,4 @@
+tasks:
+  - name: Install Dependencies
+    init: |
+      pip install jupyterlab jupyterlab-rise panel
