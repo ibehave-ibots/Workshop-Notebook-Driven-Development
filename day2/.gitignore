@@ -6,7 +6,7 @@ command_line/*
 *.csv
 output*
 script.ipynb
-*.py
+script.py
 *.txt
 05_Developing Reusable Code in Notebooks (solution).ipynb
 07_Automate Notebook Execution and Parameterization (solution).ipynb
