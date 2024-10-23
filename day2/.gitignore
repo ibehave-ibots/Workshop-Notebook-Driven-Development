@@ -1,0 +1,12 @@
+magic_commands/*
+run_section/*
+data_project/*
+command_line/*
+*_notebook_*
+*.csv
+output*
+script.ipynb
+*.py
+*.txt
+05_Developing Reusable Code in Notebooks (solution).ipynb
+07_Automate Notebook Execution and Parameterization (solution).ipynb
