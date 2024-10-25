@@ -13,7 +13,7 @@ Oct 23-25 (Wednesday-Friday)
 
 [Day 2: Materials](day2/)
 
-[Day 2: Materials](day3/)
+[Day 3: Materials](day3/)
 
 
 Open in Gitpod in case of local installation issues:
