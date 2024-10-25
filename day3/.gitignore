@@ -1,0 +1,8 @@
+data/*
+*.png
+nb*
+plots.ipynb
+process.ipynb
+stats.ipynb
+09 Building Workflows in Notebook (solutions).ipynb
+10 Dependency Management With PyDoit (solutions).ipynb
